@@ -27,7 +27,7 @@ function addnumbers(){
     count.innerHTML = number;
 }
 
-var number = 1
+var number = 1;
 
 function reducenumbers(){
     console.log("I am the reduce number function")
